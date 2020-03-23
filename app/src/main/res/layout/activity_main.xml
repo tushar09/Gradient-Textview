@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
@@ -14,6 +15,28 @@
         android:textSize="30sp"
         android:gravity="center"
         android:id="@+id/tv"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textStyle="bold"
+        android:text="This is a very big big text"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:id="@+id/tv2"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textStyle="bold"
+        android:text="This is an another very big big text with long details to test color"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:id="@+id/tv3"
         android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
