@@ -34,7 +34,6 @@
         android:textStyle="bold"
         android:text="This is an another very big big text with long details to test color"
         android:textColor="#000"
-        android:textSize="30sp"
         android:gravity="center"
         android:id="@+id/tv3"
         android:layout_gravity="center"
