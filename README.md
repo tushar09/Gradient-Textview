@@ -14,7 +14,7 @@ Add the dependency
 
 ```gradle
 dependencies {
-    implementation 'com.github.tushar09:Gradient-Textview:1.0'
+    implementation 'com.github.tushar09:Gradient-Textview:1.1'
 }
 ```
 
